@@ -15,50 +15,70 @@
 # EXAMPLE: write code below that will print an array of animals.
 # Store the array in a variable.
 animals = ["Zebra", "Giraffe", "Elephant"];
-print animals
+puts animals
+puts '-' * 10
 
 # EXAMPLE: Write code below that will print "Zebra" from the animals array
 # YOUR CODE HERE
-print animals[0]
+puts animals[0]
+puts '-' * 10
 
 # YOU DO: Write code below that will print the number of elements in array of
 # animals from above.
 
-
+puts animals.length
+puts '-' * 10
 # YOU DO: Write code that will reassign the last item in the animals
 # array to "Gorilla"
 
+animals[2] = "Gorilla"
 
 # YOU DO: Write code that will add a new animal (type of your choice) to position 3.
 
+animals.push("Bobcat")
 
 # YOU DO: Write code that will print the String "Elephant" in the animals array
 
-
+animals.push("Elephant")
+puts animals[4]
+puts '-' * 10
 #-------------------
 # PART 2: Foods: Array Methods
 #-------------------
 
 # YOU DO: Declare a variable that will store an an array of at least 4 foods (strings)
 
+foods = ["grains", "veggies", "fruits", "meat"]
 
 # YOU DO: Write code below that will print the number of elements in the array of
 # foods from above.
 
+puts foods.length
+puts '-' * 10
 
 # YOU DO: Write code below that uses a method to add "broccoli" to the foods array and
 # print the changed array to verify "broccoli" has been added
 
+foods.push("broccoli")
+puts foods
+puts '-' * 10
 
 # YOU DO: Write code below that removes the last item of food from the foods array and
 # print the changed array to verify that item has been removed
 
+foods.pop
+puts foods
+puts '-' * 10
 
-# YOU DO: Write code to add 3 new foods to the array. 
+# YOU DO: Write code to add 3 new foods to the array.
   # There are several ways to do this - choose whichever you'd like!
 # Then, print the changed array to verify the new items have been added
 
+foods.push("sugar", "milk", "brownies")
+puts foods
 # YOU DO: Remove the food that is in index position 0.
+
+foods.shift
 
 #-------------------
 # PART 3: Where are Arrays used?
@@ -77,11 +97,9 @@ print animals[0]
 posts = ["image at beach", "holiday party", "adorable puppy", "video of cute baby"];
 
 # YOU DO: Think of a web application you commonly use. Where do you see LISTS utilized, where arrays
-# may be storing data? Come up with 3 examples - they could be from different web applications or 
+# may be storing data? Come up with 3 examples - they could be from different web applications or
 # all from the same one.
 
-# 1:
-# 2:
-# 3:
-
-
+# 1: reddit has subreddits = ["epic fails", "cute pics", "explainlikeimfive"]
+# 2: Youtube has videos = ["Go Easy on Me", "Rocketman", "Super Mario Secrets"]
+# 3: Amazon has items = ["computers", "chairs", "books"]
