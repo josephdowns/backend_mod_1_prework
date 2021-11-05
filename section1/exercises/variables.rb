@@ -36,7 +36,7 @@ puts minus_students
 # Store the appropriate data types in each.
 # print all three variables to the terminal.
 first_name = "Joseph"
-is_hungry = "nope"
+is_hungry = true
 number_of_pets = 0
 puts first_name
 puts is_hungry
@@ -45,7 +45,7 @@ puts number_of_pets
 # How did you decide to use the data type you did for each of the three variables above?
 
 # Explain.
-#first_name and is_hungry were asking for strings so I put that data type for those variables.
+#first_name asks for name or string. is_hungry is asking true or false so I used a boolean data type.
 #number_of_pets was asking for a number so I put an integer as the variable.
 
 # YOU DO:
