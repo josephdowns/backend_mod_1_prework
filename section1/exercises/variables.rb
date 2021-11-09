@@ -52,7 +52,7 @@ puts number_of_pets
 # Re-assign the values to the three variables from the previous challenge to different values (but same data type).
 # print all three variables to the terminal.
 first_name = "Donny"
-is_hungry = "for sausage"
+is_hungry = false 
 number_of_pets = 3
 puts first_name
 puts is_hungry
