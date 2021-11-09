@@ -16,7 +16,7 @@ class Person
   end
 
   def hobby
-    puts "I like to run 10 miles a day."
+    puts "#{name} likes to run 10 miles a day."
   end
 
 end
