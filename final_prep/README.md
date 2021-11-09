@@ -26,15 +26,17 @@ Take your time as you go back and refactor your exercises from each section. We'
 
 ### Time Management Prep
 In Mod 0 you've learned about different techniques for managing your time at Turing. Please create a calendar for your **first 3 weeks of Mod 1**. Feel free to make your calendar fit your style, but we suggest that your calendar should include the following:
-- [ ] Standard M1 class schedule (see M1 calendar [here](https://backend.turing.io/module1/)
-- [ ] Study/Project work time
-- [ ] Health + Wellness
+- [x] Standard M1 class schedule (see M1 calendar [here](https://backend.turing.io/module1/))
+- [x] Study/Project work time
+- [x] Health + Wellness
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- `Add Week 1 Screenshot Here`
-- `Add Week 2 Screenshot Here`
-- `Add Week 3 Screenshot Here`
+- ![Mod1 Week 1](https://user-images.githubusercontent.com/93220002/140846442-6bf03a22-0225-47d2-be0a-f81507144b09.png)
+
+- ![Mod1 Week 2](https://user-images.githubusercontent.com/93220002/140846479-734bed23-2a4b-4376-9964-59878ccd0130.png)
+
+- ![Screen Shot 2021-11-08 at 6 44 48 PM](https://user-images.githubusercontent.com/93220002/140846496-a81e6ca3-3173-4c1b-a29c-4000e6fb028f.png)
 
 ### Mentorship Prep
 Mentorship is an integral part of the Turing experience and will help jumpstart your technical career. In order to get your mentor relationship started on the right foot, please complete the following deliverables:
